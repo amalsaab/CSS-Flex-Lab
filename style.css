@@ -27,6 +27,7 @@ li{
 }
 nav{
     background-color: black;
+    max-width: 100vm;
 }
 .nav-container{
     
